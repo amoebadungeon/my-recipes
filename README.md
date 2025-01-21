@@ -1,4 +1,4 @@
-**BEFORE START PLEASE CONFIGURE EVERYTHING**
+**BEFORE START **
 
 **1)** Database is using Mysql
     a)Recipes table contains  `id`, `user_id`,`title`, `description`,  `image`,`ingredients`,`instructions`, `created_at`, 
